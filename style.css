@@ -4,9 +4,8 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: ?;
+  background-color: white;
 }
-
 .box {
     width: 80%;
     position: absolute;
@@ -74,7 +73,6 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-
 .Bukv {
 	color: yellow;
 	font-family: 'Source Sans Pro', sans-serif;
@@ -93,7 +91,6 @@ html, body {
  margin: 0 auto;
  text-align: center;
 }
-
 #landing .title h1 {
  font-size: 35px;
  letter-spacing: 8px;
@@ -104,7 +101,6 @@ html, body {
  margin: 0 auto;
  text-align: justify;
 }
-
 #landing .block-gray {
  background: #f2f2f2;
  padding: 6px;
@@ -118,7 +114,6 @@ html, body {
  background-color: black;
  opacity: 0.70;
 }
-
 #landing .parallax-one {
  padding-top: 200px;
  padding-bottom: 200px;
@@ -133,7 +128,6 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-
 #landing .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
@@ -148,7 +142,6 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-
 #landing .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
@@ -206,4 +199,3 @@ html, body {
   width: 290px;
  }
 }
-◀
